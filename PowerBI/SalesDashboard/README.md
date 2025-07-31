@@ -1,3 +1,17 @@
+## 📁 Project Structure
+  PowerBI/
+    └── SalesDashboard/
+        ├── Data/
+        │   ├── sales_data_4months.xlsx
+        │   └── extra_dataset.xlsx
+        ├── Screenshots/
+        │   ├── step1_data_loaded.png
+        │   ├── step2_data_cleaning.png
+        │   └── step3_basic_dashboard.png
+        ├── SalesDashboard.pbix
+        └── README.md---ya kaha paste kro
+
+      
 # 📊 Sales Dashboard (Power BI)
 
 This project showcases a **Sales Dashboard** built in Power BI to analyze revenue, customer trends, and product performance.  
@@ -12,8 +26,11 @@ The dashboard provides insights into monthly sales, regional performance, and to
 - 🔄 Next Step: Add slicers, calculated measures, and advanced formatting  
 
 ## 🗂 Dataset
-- Format: Excel (`sales_data.xlsx`)  
-- Contains fictional sales transactions, regions, and product details  
+- **sales_data_4months.xlsx**  
+  Contains 4 months of sales data including product, region, revenue, and date details.
+- **extra_dataset.xlsx**  
+  Additional dataset used for extended analysis and dashboard insights.
+
 
 ## 📸 Dashboard Screenshots
 ### Data Loaded
